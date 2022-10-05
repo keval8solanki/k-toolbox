@@ -1,5 +1,5 @@
 
-# Factri
+# k-toolbox
 
 It is small set for util functions
 
@@ -8,13 +8,13 @@ It is small set for util functions
 
 ## Installation
 
-Install factri with npm or yarn
+Install k-toolbox with npm or yarn
 
 ```bash
-npm i factri
+npm i k-toolbox
 ```
 ```bash
-yarn add factri
+yarn add k-toolbox
 ```
 ## Functions List
 
@@ -31,7 +31,7 @@ yarn add factri
 
 #### factory
 ```javascript
-import { factory } from 'factri'
+import { factory } from 'k-toolbox'
 
 const Vehicle = factory((t) => {
   
